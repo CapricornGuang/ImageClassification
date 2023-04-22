@@ -27,4 +27,4 @@ Based on Resnet50 pretraining model and somewhat necessary strategy like data au
 If you have any questions, feel free to contact YuGuang Yang through Email (moujieguang@gmail.com) or Github issues. Pull requests are highly welcomed!
 
 ## Acknowlegements
-Si Liu Professor for introducing the basic concept of deep learning
+Si Liu Professor (https://scholar.google.com/citations?hl=zh-CN&user=-QtVtNEAAAAJ) for introducing the basic concept of deep learning
