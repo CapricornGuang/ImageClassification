@@ -4,10 +4,7 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 ## Profile
-This repository is  
-<div style="background-color:#EAF3FF; border-radius:5px; padding:10px;">
-especially suitable for course project presentation
-</div> (the PowerPoint Slide is also attached) with somewhat innovation showing your understanding towards neural network. <br/>
+This repository is **especially suitable for course project presentation** (the PowerPoint Slide is also attached) with somewhat innovation showing your understanding towards neural network. <br/>
 
 All data are included in the repository, with a simple clone and correct environment dependency, you can easily work on it !
 
