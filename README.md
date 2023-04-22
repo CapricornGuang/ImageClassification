@@ -1,8 +1,30 @@
-# 多尺度特征融合的迁移学习分类
+# Multi-scale feature merging strategy for image classification
+![Python 3.6.5](https://img.shields.io/badge/python-3.6.5-green.svg?style=plastic)
+![PyTorch 1.2](https://img.shields.io/badge/PyTorch-1.12.0-orange?style=plastic)
+![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
-## 总结
+## Profile
+This repository is  
+<div style="background-color:#EAF3FF; border-radius:5px; padding:10px;">
+especially suitable for course project presentation
+</div> (the PowerPoint Slide is also attached) with somewhat innovation showing your understanding towards neural network. <br/>
 
-刘偲老师介绍了GoogleNet，Resnet等解决计算机视觉问题的经典模型，同时也介绍了关于深度卷积网络的解释性问题。因此我们基于Resnet50预训练模型，应用数据增强等必要的特征工程手段
-来提高模型的精确率。同时，受到网络越深，图像特征越复杂这一理论的启发，我们提出了多尺度特征融合的图像分类模型，进一步提高了图片分类的效果，在测试集上达到了97.2%的准确率。
+All data are included in the repository, with a simple clone and correct environment dependency, you can easily work on it !
 
-详细的模型介绍可以看PPT里面的
+## Introduction
+Based on Resnet50 pretraining model and somewhat necessary strategy like data augment, we aim to develop an image claasification model. Considering the sight that the semantic information of image feature will get more rich when the layer goes deeper, we introduce an Attention-based feature fusing component to get a comprehensive feature. The ablation test is also performed to showcase the effectiveness of this strategy, obtaining a 97.2% accuracy on the included dataset.
+
+
+<p align="center">
+<img src=".\.img/Framework.png" height = "400" alt="" align=center />
+<br><br>
+<b>Figure 1.</b> The illustration of Diviner framework.
+</p>
+
+
+
+## Contact
+If you have any questions, feel free to contact YuGuang Yang through Email (moujieguang@gmail.com) or Github issues. Pull requests are highly welcomed!
+
+## Acknowlegements
+![Si Liu](https://img.shields.io/badge/China%20Unicom-CC_BY--NC--SA--red.svg?color=critical)(https://scholar.google.com/citations?hl=zh-CN&user=-QtVtNEAAAAJ) Professor for introducing the basic concept of deep learning
