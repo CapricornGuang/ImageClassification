@@ -9,7 +9,7 @@ This repository is `especially suitable for course project presentation` (the Po
 All data are included in the repository, with a simple clone and correct environment dependency, you can easily work on it !
 
 ## Introduction
-Based on Resnet50 pretraining model and somewhat necessary strategy like data augment, we aim to develop an image claasification model. Considering the sight that the semantic information of image feature will get more rich when the layer goes deeper, we introduce an Attention-based feature fusing component to get a comprehensive feature. The ablation test is also performed to showcase the effectiveness of this strategy, obtaining a 97.2% accuracy on the included dataset.
+Based on Resnet50 pretraining model and somewhat necessary strategy like `data augment`, we aim to develop an image claasification model. Considering the sight that the semantic information of image feature will get more rich when the layer goes deeper, we introduce an `Attention-based feature fusing component` to get a comprehensive feature. The ablation test is also performed to showcase the effectiveness of this strategy, obtaining a 97.2% accuracy on the included dataset.
 
 
 <p align="center">
