@@ -15,7 +15,7 @@ Based on Resnet50 pretraining model and somewhat necessary strategy like `data a
 <p align="center">
 <img src="multi-scale fusing component.png" height = "400" alt="" align=center />
 <br><br>
-<b>Figure 1.</b> The illustration of Diviner framework.
+<b>Figure 1.</b> The illustration of the proposed framework.
 </p>
 
 
